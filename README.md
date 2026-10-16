@@ -1,4 +1,4 @@
-# Tun-er-Up
+# TunedUp
 > [!CAUTION]
 > In order of performance scaling, Hardware > BIOS > Operating System.
 
