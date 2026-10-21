@@ -8,7 +8,7 @@
 > [!CAUTION]
 > **Do NOT** apply random, unknown or undocumented changes, programs and script to your system without a comprehensive understanding of what they are changing and impact they have on security, privacy and performance.
 
-At the moment we are going to add a couple things, and as of now we are just going to be doing Windows tuning
+At the moment we are going to add a couple things
 
 <h1 id="physical-setup"> Physical Setup <a href="#physical-setup">(permalink)</a></h1>
 
