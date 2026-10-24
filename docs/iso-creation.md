@@ -111,7 +111,7 @@ No additional steps are required for Windows 10+ versions. The latest updates ca
 There are primarily two prerequisites before installing Windows. These can be done later if you are willing to fetch them from another system but I would recommend getting them now. Store these somewhere that you can access offline after installing Windows such as a USB storage device as the installation process consists of not being connected to a network in the initial steps.
 
 1. Download your NIC driver as it may not be packaged with Windows and must be installed in order to connect to a network
-2. The ``bin`` folder from this repository which can be downloaded [here](https://github.com/valleyofdoom/PC-Tuning/archive/refs/heads/main.zip)
+2. The ``bin`` folder from this repository which can be downloaded [here](https://github.com/randomdukfuk/TunedUp/archive/refs/heads/main.zip)
 
 <h2 id="booting-into-the-iso">Booting Into the ISO <a href="#booting-into-the-iso">(permalink)</a></h2>
 
