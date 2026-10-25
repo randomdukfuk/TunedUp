@@ -349,6 +349,11 @@ $ENTRIES = [ordered]@{
             "type"     = "REG_DWORD"
             "apply_if" = @("show file extensions")
         }
+        "Hidden" = @{
+            "value"    = 1
+            "type"     = "REG_DWORD"
+            "apply_if" = @("show hidden items in file explorer")
+        }
     }
     "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WdFilter"                                                                         = [ordered]@{
         "Start" = @{

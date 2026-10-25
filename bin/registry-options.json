@@ -29,6 +29,7 @@
     "disable fault tolerant heap": true,
     "disable sign-in and lock last interactive user after a restart": true,
     "show file extensions": true,
+    "show hidden items in file explorer": true,
     "disable widgets": true,
     "disable remote assistance": true,
     "disable telemetry": true,
