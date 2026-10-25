@@ -396,6 +396,15 @@ config option: ``show file extensions``
 "HideFileExt"=dword:00000000
 ```
 
+## Show Hidden Items in File Explorer
+
+config option: ``show hidden items in file explorer``
+
+```
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"Hidden"=dword:00000001
+```
+
 ## Disable Widgets
 
 config option: ``disable widgets``
